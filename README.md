@@ -16,10 +16,10 @@ RELATIONAL DATA BASE DESIGN
 
 Login-: Login table is for keeping username, passwords and account type of users. Login table has three attributes -:
 
-•	Username (Primary key)
-•	Password (Not Null)
-•	Account type (Not Null)
-         Password and Account Type are mandatory fields.
+Username (Primary key)
+Password (Not Null)
+Account type (Not Null)
+Password and Account Type are mandatory fields.
 
 Products-: Product table is for keeping details of products in the bakery. Product table has 6 attributes-:
 
